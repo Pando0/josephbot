@@ -2,7 +2,7 @@
 
 #O que é
 
-Um projeto de inteligência artificial (que tá mais pra machine learning) programada em Python por dois meninos de 11/12 anos de idade.
+Um projeto de chatbot programado em Python por dois meninos de 11/12 anos de idade.
 
 Joseph é uma """"inteligência artificial""""  que não possui interface gráfica porque interface no python é muito ruim e eu não sei Java só Kotlin mas não tenho PC pra rodar o Android Studio.
 
