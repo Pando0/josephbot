@@ -1,0 +1,6 @@
+JosephBot v4.
+
+create by Pando0.
+Contact: Discord Char#8024
+
+MIT license.
