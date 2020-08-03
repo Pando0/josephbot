@@ -4,11 +4,8 @@ Um Chatbot de texto feito em Python.
 
 # Instalação
 
-Para instalar o bot rode o comando:
-``` $ bash install.sh```
-
-ou instale o modulo Numpy e rode o arquivo main.py com
-``` $ python main.py ```
+Para rodar o bot instale o Python no seu terminal, instale as dependencias(no caso apenas o modulo Numpy), entre na pasta JosephChatbot e rode o comando:
+```$ python main.py```
 
 # Funções
 
